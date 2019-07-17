@@ -1,0 +1,17 @@
+body{
+    background-image:linear-gradient(to right, #ed536d, #f54260, #c7203c);
+    color: azure;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#divCentral{
+    display: block;
+    margin: 0 auto;
+    border: 2px solid black;
+    margin-top: 20px;
+    width: 400px;
+}
